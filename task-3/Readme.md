@@ -1,0 +1,1 @@
+-> First I tried to use Nokogiri only but a issue i was facing as it is a parser only so after looking through clearly i got to know about 'open-uri which isOpenURI is an easy-to-use wrapper for Net::HTTP, Net::HTTPS and Net::FTP.And it solved the problem 
