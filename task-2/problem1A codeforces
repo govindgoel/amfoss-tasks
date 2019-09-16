@@ -1,0 +1,13 @@
+#include <iostream>
+#include <cmath>
+using namespace std;
+ 
+int main() {
+    double m,n,a;
+    cin >> n >> m >> a;
+    long long int x,y;
+    x = ceil(m/a);
+    y = ceil(n/a);
+    cout << x*y;
+	return 0;
+}
